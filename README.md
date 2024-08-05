@@ -17,7 +17,7 @@ https://github.com/a1phaboy/FastjsonScan
 在命令行里输入
 
 
-git clone https://github.com/OPENITY5659/N_on_ONE_scan.git && pip install -r requirement.txt
+git clone https://github.com/OPENITY5659/N_on_ONE_scan.git && cd N_on_ONE_scan && pip install -r requirement.txt
 
 
 
