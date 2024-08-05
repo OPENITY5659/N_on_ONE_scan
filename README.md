@@ -2,6 +2,7 @@
 对扫描工具进行整合
 
 扫描工具来源于：
+
 https://github.com/carl1l/f403
 
 
@@ -13,6 +14,9 @@ https://github.com/a1phaboy/FastjsonScan
 
 
 ##usge
+在命令行里输入
+git clone https://github.com/OPENITY5659/N_on_ONE_scan.git && pip install -r requirement.txt
 
-git clone https://github.com/OPENITY5659/N_on_ONE_scan.git
+
+
 python fast_api.py
