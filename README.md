@@ -13,8 +13,10 @@ https://github.com/a1phaboy/FastjsonScan
 
 
 
-##usge
+## usge
 在命令行里输入
+
+
 git clone https://github.com/OPENITY5659/N_on_ONE_scan.git && pip install -r requirement.txt
 
 
